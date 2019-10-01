@@ -1,0 +1,5 @@
+This is my first day in Git Hub
+Learning aspects
+Repostiory
+commit new file
+hash
